@@ -1,5 +1,5 @@
 Primer tarea
 Segunda tarea
-Tercera tarea
+Tercera tarea (- [x]).
 Cuarta tarea
 Quinta tarea
